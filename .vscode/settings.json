@@ -1,0 +1,10 @@
+{
+    "html-css-class-completion.enableEmmetSupport": true,
+    "html-css-class-completion.CSSLanguages": [
+
+        "css",
+        "sass",
+        "scss",
+        "tailwind"
+    ]
+}
