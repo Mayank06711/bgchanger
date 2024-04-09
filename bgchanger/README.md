@@ -1,6 +1,6 @@
-# Color Picker App
+# Background Changer App
 
-A simple React application to pick different colors.
+A simple React application to pick different colors created to learn useState hook and tailwind css
 
 ## Features
 
